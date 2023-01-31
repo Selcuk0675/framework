@@ -1,0 +1,5 @@
+2023-01-30 22:28:35,531 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 22:28:35,579 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 22:28:48,793 INFO P.MainPage [main] User go to http://www.hepsiburada.com/
+2023-01-30 22:28:52,720 INFO P.MainPage [main] User hover over giris yap buton
+2023-01-30 22:28:53,737 INFO P.MainPage [main] User click login buton
